@@ -117,7 +117,7 @@ The hypothesis of immediate continuation after structural breakout is not suppor
 
 # 🎯 Key Takeaways
 
-✔ Large dataset validation (3M+ candles  
+✔ Large dataset validation (3M+ candles) 
 ✔ 50k+ trades → statistically meaningful  
 ✔ Clean vectorized implementation  
 ✔ No overfitting  
